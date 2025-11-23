@@ -165,4 +165,6 @@ This n8n workflow implements a **multi-agent AI system** with the following capa
 └─────────────────────────────────────────────────────────────┘
 ```
 
+---
 
+Built with using n8n, OpenAI, webhook url and MongoDB
